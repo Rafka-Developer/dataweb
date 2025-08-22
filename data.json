@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "8396230072:AAFZsQjniOI0v9e_VqzsApu5C1jcoFaBnCc"
+],
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    }
+  ]
+}
+
+//Note : Taroh file data.json (bisa di rubah nama nya)
+//di repo token bot lu
